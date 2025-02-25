@@ -1,1 +1,8 @@
-# CS370
+## Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+The code that I was given was code for training an AI to complete a treasure hunt game. The code gave everything to complete the project except the pirate intelligent agent. This I had to create myself, in the Jupyter file I commented in where my code starts. I was able to follow psuedocode to complete my code and left in-line comments to help show what each line does.
+## What do computer scientists do and why does it matter?
+Computer scientists utilize all their skills in programming and other computer problem solving skills to solve problems and design applications for our daily lives. This helps our world be even more interconnected, allowing more communication around the globe.
+## How do I approach a problem as a computer scientist?
+There are many steps to follow to approach a problem as a computer scientist. First we should understand the problem, knowing the problem can help us break it down and figure out how to fix it. We then should choose a strategy to solve the problem at hand. Next we design the solution, maybe by pseudocode or something else. Then we implement that solution and test it and evaluate if need be.
+##What are my ethical responsibilities to the end user and the organization?
+I need to ensure my code protects personal and confidential information the best way possible. Learning and using secure coding methodology and ensuring I stay in compliance with all the privacy laws is a must. Ensuring I patch any security problem that may arise is also important, ensuring data continues to stay private.
