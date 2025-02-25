@@ -4,5 +4,5 @@ The code that I was given was code for training an AI to complete a treasure hun
 Computer scientists utilize all their skills in programming and other computer problem solving skills to solve problems and design applications for our daily lives. This helps our world be even more interconnected, allowing more communication around the globe.
 ## How do I approach a problem as a computer scientist?
 There are many steps to follow to approach a problem as a computer scientist. First we should understand the problem, knowing the problem can help us break it down and figure out how to fix it. We then should choose a strategy to solve the problem at hand. Next we design the solution, maybe by pseudocode or something else. Then we implement that solution and test it and evaluate if need be.
-##What are my ethical responsibilities to the end user and the organization?
+## What are my ethical responsibilities to the end user and the organization?
 I need to ensure my code protects personal and confidential information the best way possible. Learning and using secure coding methodology and ensuring I stay in compliance with all the privacy laws is a must. Ensuring I patch any security problem that may arise is also important, ensuring data continues to stay private.
